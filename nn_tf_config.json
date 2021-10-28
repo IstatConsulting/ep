@@ -9,10 +9,8 @@
         200
       ],
       "tensorPath": "https://raw.githubusercontent.com/IstatConsulting/ep/main/work_vectors_marka_teljes_s.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/IstatConsulting/ep/main/word_vectors_marka_teljes_s_meta.tsv"
-    }, 
- {
-      "tensorName": "NN - Kommentek2",
+      "metadataPath": "https://raw.githubusercontent.com/IstatConsulting/ep/main/word_vectors_marka_teljes_s_meta.tsv" , 
+            "tensorName": "NN - Kommentek2",
       "tensorShape": [
         650,
         200
@@ -20,5 +18,6 @@
       "tensorPath": "https://raw.githubusercontent.com/IstatConsulting/ep/main/work_vectors_marka_teljes_s.tsv",
       "metadataPath": "https://raw.githubusercontent.com/IstatConsulting/ep/main/word_vectors_marka_teljes_s_meta.tsv"
     }
+
   ]
 }
