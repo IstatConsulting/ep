@@ -5,8 +5,8 @@
     {
       "tensorName": "NN - Kommentek",
       "tensorShape": [
-        10307,
-        300
+        600,
+        200
       ],
       "tensorPath": "https://raw.githubusercontent.com/IstatConsulting/ep/main/work_vectors_marka_teljes_s.tsv",
       "metadataPath": "https://raw.githubusercontent.com/IstatConsulting/ep/main/word_vectors_marka_teljes_s_meta.tsv"
