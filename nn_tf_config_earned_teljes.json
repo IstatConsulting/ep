@@ -1,0 +1,15 @@
+
+
+{
+  "embeddings": [
+    {
+      "tensorName": "NN - Earned - Teljes",
+      "tensorShape": [
+        800,
+        200
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/IstatConsulting/ep/main/work_vectors_fokusz_earned_teljes_s.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/IstatConsulting/ep/main/word_vectors_fokusz_earned_teljes_s_meta.tsv"
+    }
+  ]
+}
