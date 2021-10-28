@@ -3,7 +3,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "NN - Earned - Teljes",
+      "tensorName": "NN - Earned - PosztCovid",
       "tensorShape": [
         800,
         200
