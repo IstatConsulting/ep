@@ -3,13 +3,13 @@
 {
   "embeddings": [
     {
-      "tensorName": "NN - Kommentek",
+      "tensorName": "NN - Teljes",
       "tensorShape": [
-        650,
-        200
+        10307,
+        300
       ],
       "tensorPath": "https://raw.githubusercontent.com/IstatConsulting/ep/main/work_vectors_marka_teljes_s.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/IstatConsulting/ep/main/word_vectors_marka_teljes_s_meta.tsv" 
+      "metadataPath": "https://raw.githubusercontent.com/IstatConsulting/ep/main/word_vectors_marka_teljes_s_meta.tsv"
     }
   ]
 }
