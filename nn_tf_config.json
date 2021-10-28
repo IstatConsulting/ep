@@ -3,7 +3,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "NN - Teljes",
+      "tensorName": "NN - Kommentek",
       "tensorShape": [
         10307,
         300
